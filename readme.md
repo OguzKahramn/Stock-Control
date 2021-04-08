@@ -24,7 +24,7 @@ For the user only **mysqly.connector** module has been required.
 The menu looks like the image above. The features are can be seen on the image that:
 * The user can add product with its amount by clicking **Save** button.
 * The user can decrease the product with its amount by clicking **Decrease** button.
-* If the unwanted product has been inserted, the user can delete the product by referring its id by clicking **Delete** buttin. In order to do it, the user will list the product to see product id. **Each product even the same name has different id.** 
+* If the unwanted product has been inserted, the user can delete the product by referring its id by clicking **Delete** button. In order to do it, the user will list the product to see product id. **Each product even the same name has different id.** 
 * In order to see inventroy, the user should click **List** button.
 * Threshold is a given number that if the user clicks **Show Below**, the all products which are less than the threshold value, will be listed in the screen.
 * **Clear** button clears the screen.  
