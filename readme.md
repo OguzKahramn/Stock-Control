@@ -19,4 +19,4 @@ The table format will be given in following parts.
 For the user only **mysqly.connector** module has been required. 
 
 
-![alt text](https://github.com/OguzKahrmn/Stock-Control/blob/main/program.png?raw=true)
+![alt text](https://github.com/OguzKahrmn/Stock-Control/main/program.png?raw=true)
