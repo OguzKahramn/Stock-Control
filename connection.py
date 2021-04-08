@@ -6,5 +6,5 @@ connection = mysql.connector.connect(
     host='localhost',       # MySql host name (example)
     user='root',            # MySql username (example)
     password='mysql1234',   # MySql password (example)
-    database='telsama'      # Database name in MySql
+    database='example'      # Database name in MySql
 )
