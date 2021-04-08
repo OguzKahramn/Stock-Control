@@ -68,8 +68,6 @@ class Program(QtWidgets.QMainWindow):
 
         if int(toplam) > int(miktar):
             yeni=int(toplam)-int(miktar)
-            print(type(yeni))
-            print(type(ad))
             sql = ('DELETE FROM urunler WHERE urun_ismi=%s')
             tarih=datetime.now()
             value = (ad,)
